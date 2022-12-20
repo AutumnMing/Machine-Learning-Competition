@@ -2,3 +2,5 @@
 .idea/inspectionProfiles/profiles_settings.xml
 *.xml
 .idea/Machine-Learning-Competition.iml
+.idea
+.idea\inspectionProfiles
